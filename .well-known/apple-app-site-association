@@ -1,1 +1,18 @@
-
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [ "XS2NC648G8.io.github.teslaui" ],
+                "components": [
+                    {
+                        "/": "/auth/callback",
+                        "comment": "Authentication"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [ "XS2NC648G8.io.github.teslaui" ]
+    },
+}

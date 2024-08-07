@@ -11,5 +11,9 @@
                 ]
             }
         ]
+    },
+    
+    "webcredentials": {
+        "apps": [ "XS2NC648G8.io.github.teslaui" ]
     }
 }

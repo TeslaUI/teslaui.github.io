@@ -2,3 +2,4 @@ title: TeslaUI
 name: null
 include:
   - .well-known
+skin: dark

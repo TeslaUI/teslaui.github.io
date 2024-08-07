@@ -2,8 +2,3 @@ title: TeslaUI
 name: null
 include:
   - .well-known
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark

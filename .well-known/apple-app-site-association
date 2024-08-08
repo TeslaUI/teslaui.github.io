@@ -2,7 +2,7 @@
     "applinks": {
         "details": [
             {
-                "appIDs": [ "XS2NC648G8.io.github.teslaui" ],
+                "appIDs": [ "XS2NC648G8.io.github.teslaui", "XS2NC648G8.io.github.teslaui.watch" ],
                 "components": [
                     {
                         "/": "/auth/callback",
@@ -12,8 +12,8 @@
             }
         ]
     },
-    
+
     "webcredentials": {
-        "apps": [ "XS2NC648G8.io.github.teslaui" ]
+        "apps": [ "XS2NC648G8.io.github.teslaui", "XS2NC648G8.io.github.teslaui.watch" ]
     }
 }
